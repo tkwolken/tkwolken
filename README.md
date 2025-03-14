@@ -10,7 +10,7 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
 
-![Rubber Duck Sticker by Bianca Bosso.gif](.C:\Users\twolken\Downloads\Rubber Duck Sticker by Bianca Bosso.gif")
+
 
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/tobias-wolken-3033b7302/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tkwolken&show_icons=true&locale=en" alt="tkwolken" /></p>
@@ -33,5 +33,6 @@
   <img src="https://profile-counter.glitch.me/tkwolken/count.svg?"  />
 </div>
 
+![Giphy GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWF0MmpveDh5c3RwbHU1eWxvcXg0dnNlaG05dHp1OHYwN2lyaXk3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ou60s0z0v7JzSWGn8C/giphy.gif)
 
 ###
